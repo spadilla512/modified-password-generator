@@ -11,7 +11,10 @@ N/A
 ## Usage
 
 The user will need to click the red "Generate Password" button to bring up the prompts that will ask how long the password should be and to include whether or not there should be upper and lowercase letters, numbers, and special characters. If the user enters in a number that is outside of the range of 8 to 128 characters, it will prompt that it must be over or under the specified range. The user will then need to click "Generate Password" again to bring back up the prompts.
+
 ![Alt text](assets/images/image.png)
+
+Link of URL to deployment: https://spadilla512.github.io/modified-password-generator/
 
 ## Credits
 
